@@ -1,7 +1,7 @@
 [PreviousGenFiles]
-HeaderPath=C:/embeddedSW/vt_embedded_al/Inc
+HeaderPath=C:/embeddedSW/embedded_asal/Inc
 HeaderFiles=FreeRTOSConfig.h;stm32f1xx_it.h;stm32f1xx_hal_conf.h;main.h;
-SourcePath=C:/embeddedSW/vt_embedded_al/Src
+SourcePath=C:/embeddedSW/embedded_asal/Src
 SourceFiles=freertos.c;stm32f1xx_it.c;stm32f1xx_hal_msp.c;stm32f1xx_hal_timebase_tim.c;main.c;
 
 [PreviousLibFiles]
